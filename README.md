@@ -26,19 +26,19 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **react, Next, nodejs, Express, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in Web Apps. So,I'm learning **NextJs**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I regularly write articles on [Developer](https://dev.to/abdulbasetbappy)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **react, Next, nodejs, Express, MongoDB**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **abdulbasetbappy@hotmail.com**
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 🏠 Also We've a tech community called [CodeXplorers](www.youtube.com).
 <!--Intro end-->
 
 
