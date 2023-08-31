@@ -1,5 +1,4 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -19,12 +18,14 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">More About Me</h2></summary>
   </ul>
 </div>
 
 
-<!--Intro start-->
+<tr>
+  <td>
+    <!--Intro start-->
 - 🌱 I’m currently learning ReactJS and NodeJS
 
 - 🔭 I’m currently looking for an Internship.
@@ -39,7 +40,11 @@
 
 - 🏠 Also We've a tech community called [CodeXplorers](www.youtube.com).
 <!--Intro end-->
-
+  </td>
+  <td>
+     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  </td>
+</tr>
 
 
 <!--- stats & Trophy (start) -->
@@ -105,3 +110,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/abdulbasetbappy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
