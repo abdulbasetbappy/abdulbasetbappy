@@ -8,7 +8,7 @@
 <p align="center">I'm a student developer.<br/>I specialize in Web-Development and SEO<br> I also love writing Tech-blogs, Search Engine Optimization etc.<br></p><br/>
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/4feb5d01-1371-4d3f-8f45-bce6b6f337cf"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
