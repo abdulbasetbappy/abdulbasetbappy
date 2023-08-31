@@ -1,5 +1,4 @@
 
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -21,10 +20,6 @@
     <summary><h2 style="display: inline-block">More About Me</h2></summary>
   </ul>
 </div>
-
-
-<tr>
-  <td>
     <!--Intro start-->
 - 🌱 I’m currently learning ReactJS and NodeJS
 
@@ -40,11 +35,6 @@
 
 - 🏠 Also We've a tech community called [CodeXplorers](www.youtube.com).
 <!--Intro end-->
-  </td>
-  <td>
-     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  </td>
-</tr>
 
 
 <!--- stats & Trophy (start) -->
