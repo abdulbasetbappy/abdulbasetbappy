@@ -16,7 +16,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block"><img style="border-radious: 50;" src="https://user-images.githubusercontent.com/96036849/264571039-53b9eb33-602c-41e9-988a-24d3eaa4072b.gif" width="35"> More About Me</h2></summary>
+    <summary><h2 style="display: inline-block"><img  src="https://user-images.githubusercontent.com/96036849/264573237-559f4e8e-1a10-48b8-ba12-5b1d7cc6b787.png" width="35"> More About Me</h2></summary>
   </ul>
 </div>
 
