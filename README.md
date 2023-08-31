@@ -1,4 +1,3 @@
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -20,7 +19,11 @@
     <summary><h2 style="display: inline-block">More About Me</h2></summary>
   </ul>
 </div>
-    <!--Intro start-->
+
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
+<!--Intro start-->
 - 🌱 I’m currently learning ReactJS and NodeJS
 
 - 🔭 I’m currently looking for an Internship.
