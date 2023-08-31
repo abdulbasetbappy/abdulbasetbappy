@@ -26,15 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **react, Next, nodejs, Express, MongoDB**
+- 🔭 I’m currently working on **react, Next, Nodejs, Express, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in Web Apps. So,I'm learning **NextJs**
+- ☁️ I've a keen interest in Web Apps. So, I'm learning **NextJs**
 
 - 📝 I regularly write articles on [Developer](https://dev.to/abdulbasetbappy)
 
-- 💬 Ask me about **react, Next, nodejs, Express, MongoDB**
+- 💬 Ask me about **react, Next, Nodejs, Express, MongoDB**
 
 - 📫 Feel free to reach me out **abdulbasetbappy@hotmail.com**
 
@@ -102,7 +102,8 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/abdulbasetbappy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.facebook.com/abdulbasetbappy.fb/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/facebook_2504903?related_id=2504903" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.facebook.com/abdulbasetbappy.fb/" target="blank"><img align="center" src="![image](https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/c33863b1-c9a6-482f-97ec-0586e60cd348)
+" alt="facebook" height="50" width="50" /></a>
 <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
   
 </p>
