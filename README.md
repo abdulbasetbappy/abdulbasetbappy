@@ -25,15 +25,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **react, Next, Nodejs, Express, MongoDB**
+- 🌱 I’m currently learning ReactJS and NodeJS
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🔭 I’m currently looking for an Internship.
 
 - ☁️ I've a keen interest in Web Apps. So, I'm learning **NextJs**
 
 - 📝 I regularly write articles on [Developer](https://dev.to/abdulbasetbappy)
 
-- 💬 Ask me about **react, Next, Nodejs, Express, MongoDB**
+- 💬 Ask me about **reactjs, Nextjs, Nodejs, Express, MongoDB**
 
 - 📫 Feel free to reach me out **abdulbasetbappy@hotmail.com**
 
