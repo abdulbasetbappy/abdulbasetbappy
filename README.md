@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently looking for an Internship.
 
-- ☁️ I've a keen interest in Web Apps. So, I'm learning **NextJs**
+- ☁️ I've a keen interest in SEO. So, I'm learning **NextJs**
 
 - 📝 I regularly write articles on [Developer](https://dev.to/abdulbasetbappy)
 
