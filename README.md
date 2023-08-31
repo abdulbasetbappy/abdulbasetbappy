@@ -102,7 +102,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/abdulbasetbappy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.facebook.com/abdulbasetbappy.fb/" target="blank"><img align="center" src="![image](https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/c33863b1-c9a6-482f-97ec-0586e60cd348)
+<a href="https://www.facebook.com/abdulbasetbappy.fb/" target="blank"><img align="center" src="[![image](https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/c33863b1-c9a6-482f-97ec-0586e60cd348)](https://user-images.githubusercontent.com/96036849/264540028-51b57fff-6cc5-4265-81a8-4eb0ae8376df.png)
 " alt="facebook" height="50" width="50" /></a>
 <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
   
