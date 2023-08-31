@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -8,8 +7,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Abdul Bsaet Bappy</h1></summary>
   </ul>
 </div>
-
-
+<!--Center Subtitle-->
+<p align="center">I'm a student developer.<br/>I specialize in Web-Development and SEO<br> I also love writing Tech-blogs, Search Engine Optimization etc.<br></p><br/>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
