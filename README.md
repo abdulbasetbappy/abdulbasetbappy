@@ -47,6 +47,7 @@
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <tr border="none">
 <td width="50%" align="center">
   
