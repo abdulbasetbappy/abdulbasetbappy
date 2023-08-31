@@ -20,9 +20,7 @@
   </ul>
 </div>
 
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/4ac46cb4-1189-4b65-8f8f-cb70a4e2c96c">
-</a>
+
 <!--Intro start-->
 - 🌱 I’m currently learning ReactJS and NodeJS
 
