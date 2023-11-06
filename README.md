@@ -1,6 +1,8 @@
 <div align="center">
   <img  src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/0bd92332-646d-42dc-a011-6bdeff4aaef1"
-       alt="Abdul-Baset-Bappy" /></a>
+       alt="Abdul-Baset-Bappy"
+     width="500px" height="500px"
+    />
 </div>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
