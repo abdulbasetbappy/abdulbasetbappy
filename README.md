@@ -22,19 +22,17 @@
 
 
 <!--Intro start-->
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 I’m currently learning NuxtJs and ExpressJs
 
 - 🔭 I’m currently looking for an Internship.
 
-- ☁️ I've a keen interest in SEO. So, I'm learning **NextJs**
-
 - 📝 I regularly write articles on [Developer](https://dev.to/abdulbasetbappy)
 
-- 💬 Ask me about **reactjs, Nextjs, Nodejs, Express, MongoDB**
+- 💬 Ask me about **VueJs, NuxtJs, NodeJs, ExpressJs, MongoDB**
 
 - 📫 Feel free to reach me out **abdulbasetbappy@hotmail.com**
 
-- 🏠 Also We've a tech community called [CodeXplorers](www.youtube.com).
+- 🏠 Also We've a tech community called [Script Mastery](www.youtube.com/Script Mastery).
 <!--Intro end-->
 
 
