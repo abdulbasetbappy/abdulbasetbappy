@@ -32,7 +32,7 @@
 
 - 📫 Feel free to reach me out **abdulbasetbappy@hotmail.com**
 
-- 🏠 Also We've a tech community called [Script Mastery](www.youtube.com/Script Mastery).
+- 🏠 Also We've a tech community called [Script Mastery](www.youtube.com/ScriptMastery).
 <!--Intro end-->
 
 
