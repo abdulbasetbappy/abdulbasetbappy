@@ -1,7 +1,7 @@
 <div align="center">
   <img  src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/0bd92332-646d-42dc-a011-6bdeff4aaef1"
        alt="Abdul-Baset-Bappy"
-     width="300px" height="300px"
+     width="200px" height="200px"
     />
 </div>
 <!--h1 without bottom border-->
