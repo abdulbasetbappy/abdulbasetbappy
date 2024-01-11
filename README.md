@@ -11,7 +11,7 @@
   </ul>
 </div>
 <!--Center Subtitle-->
-<p align="center">I'm a student developer.<br/>I specialize in Web-Development and SEO<br> I also love writing Tech-blogs, Search Engine Optimization etc.<br></p><br/>
+<p align="center">I'm a Junior developer.<br/>I specialize in Web-Development<br> I also love writing Tech-blogs, Search Engine Optimization etc.<br></p><br/>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -30,15 +30,14 @@
 <!--Intro start-->
 - 🌱 I’m currently learning NuxtJs and ExpressJs
 
-- 🔭 I’m currently looking for an Internship.
+- 🔭 Actively seeking Internship opportunities.
 
-- 📝 I regularly write articles on [Developer](https://dev.to/abdulbasetbappy)
+- 📝 I regularly write articles on [dev.to](https://dev.to/abdulbasetbappy)
 
-- 💬 Ask me about **VueJs, NuxtJs, NodeJs, ExpressJs, MongoDB**
+- 💬 Ask me about **VueJs, NuxtJs, NodeJs, ExpressJs, MongoDB, TypeScript**
 
 - 📫 Feel free to reach me out **abdulbasetbappy@hotmail.com**
 
-- 🏠 Also We've a tech community called [Script Mastery](www.youtube.com/ScriptMastery).
 <!--Intro end-->
 
 
