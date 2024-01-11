@@ -76,7 +76,22 @@
 </p>        
 <!--- stats (end) -->
 
-
+<!--Featured projects with descriptions-->
+<div align="center">
+  <div>
+    <a href="link_to_project_1">
+      <img src="https://your_project_1_image_url.png" alt="Project 1" width="150px" height="150px"/>
+    </a>
+    <p>Short description of Project 1</p>
+  </div>
+  <div>
+    <a href="link_to_project_2">
+      <img src="https://your_project_2_image_url.png" alt="Project 2" width="150px" height="150px"/>
+    </a>
+    <p>Short description of Project 2</p>
+  </div>
+  <!-- Add more projects as needed -->
+</div>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <h2 align="start">
