@@ -86,7 +86,7 @@
 
 <!--Featured projects with descriptions in a single row-->
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: space-between; width: 300px;">
+  <div style="display: flex; flex-direction: column; justify-content: space-between; width: 300px;">
     <div>
       <a href="link_to_project_1">
         <img src="https://your_project_1_image_url.png" alt="Project 1" width="150px" height="150px"/>
