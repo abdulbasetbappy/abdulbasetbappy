@@ -7,6 +7,39 @@
 <!--Center Subtitle-->
 <p align="center">I'm a Junior developer.<br/>I specialize in Web-Development<br> I also love writing Tech-blogs, Search Engine Optimization etc.<br></p><br/>
 
+
+
+
+
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/abdulbasetbappy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.facebook.com/in/abdulbasetbappy.fb/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96036849/264571032-29bff98c-d430-49e7-8b5d-f837245e5880.png" alt="facebook" height="50" width="50" /></a>
+  <a href="https://www.youtube.com/@abdulbasetbappy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96036849/264571013-29a2edf9-486e-41c6-aac6-01129ce16d42.png" alt="youtube" height="50" width="50" /></a>
+    <a href="https://www.youtube.com/@abdulbasetbappy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96036849/264571013-29a2edf9-486e-41c6-aac6-01129ce16d42.png" alt="youtube" height="50" width="50" /></a>
+  
+</p>
+
+  <a href="https://www.youtube.com/@abdulbasetbappy/" target="blank"><img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/6e2a4fad-eb6b-461c-9cef-17662f1241f1" alt="youtube" height="50" width="50" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="start">
@@ -16,15 +49,15 @@
 
 
 <!--Intro start-->
-- 🌱 I’m currently learning NuxtJs and ExpressJs
+🌱 I’m currently learning NuxtJs and ExpressJs
 
-- 🔭 Actively seeking Internship opportunities.
+🔭 Actively seeking Internship opportunities.
 
-- 📝 I regularly write articles on [dev.to](https://dev.to/abdulbasetbappy)
+📝 I regularly write articles on [dev.to](https://dev.to/abdulbasetbappy)
 
-- 💬 Ask me about **VueJs, NuxtJs, NodeJs, ExpressJs, MongoDB, TypeScript**
+💬 Ask me about **VueJs, NuxtJs, NodeJs, ExpressJs, MongoDB, TypeScript**
 
-- 📫 Feel free to reach me out **abdulbasetbappy@hotmail.com**
+📫 Feel free to reach me out **abdulbasetbappy@hotmail.com**
 
 <!--Intro end-->
 
@@ -100,13 +133,5 @@
   <b> Let's Connect..!</b>
 </h2>
 </div>
-![image](https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/251780b0-89bc-47cc-8edc-ef1a15456346)
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/abdulbasetbappy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.facebook.com/in/abdulbasetbappy.fb/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96036849/264571032-29bff98c-d430-49e7-8b5d-f837245e5880.png" alt="facebook" height="50" width="50" /></a>
-  <a href="https://www.youtube.com/@abdulbasetbappy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96036849/264571013-29a2edf9-486e-41c6-aac6-01129ce16d42.png" alt="youtube" height="50" width="50" /></a>
-</p>
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
