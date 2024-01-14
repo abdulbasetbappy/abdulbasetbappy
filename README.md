@@ -14,14 +14,13 @@
 
 <!--icons and links-->
 <p align="center">
+  <a href="https://www.github.com/in/abdulbasetbappy/" target="blank"><img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/1e8dff13-aac1-497d-85d6-13754d5e4666" alt="github" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/abdulbasetbappy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.facebook.com/in/abdulbasetbappy.fb/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96036849/264571032-29bff98c-d430-49e7-8b5d-f837245e5880.png" alt="facebook" height="50" width="50" /></a>
   <a href="https://www.youtube.com/@abdulbasetbappy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96036849/264571013-29a2edf9-486e-41c6-aac6-01129ce16d42.png" alt="youtube" height="50" width="50" /></a>
     <a href="https://www.youtube.com/@abdulbasetbappy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96036849/264571013-29a2edf9-486e-41c6-aac6-01129ce16d42.png" alt="youtube" height="50" width="50" /></a>
   
 </p>
-
-  <a href="https://www.youtube.com/@abdulbasetbappy/" target="blank"><img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/6e2a4fad-eb6b-461c-9cef-17662f1241f1" alt="youtube" height="50" width="50" /></a>
 
 
 
