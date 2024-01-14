@@ -14,11 +14,12 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.github.com/abdulbasetbappy/" target="blank">
-    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/1e8dff13-aac1-497d-85d6-13754d5e4666" alt="github" height="50" width="50" />
   </a>
     <a href="https://stackoverflow.com/users/21169980/abdul-baset-bappy" target="blank">
-    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/2f08163a-e529-4570-83d0-f9f502718a7c" alt="stackoverflow" height="50" width="50" />
+    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/2f08163a-e529-4570-83d0-f9f502718a7c" alt="stackoverflow" height="30" width="30" />
+  </a>
+      <a href="https://linkedin.com/abdulbasetbappy/" target="blank">
+    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/d303ee09-30fd-4fb0-8f3c-b5550a6fbdfd" alt="LiknekdIn" height="30" width="30" />
   </a>
   
 </p>
