@@ -6,12 +6,6 @@
 </div>
 <!--Center Subtitle-->
 <p align="center">I'm a Junior developer.<br/>I specialize in Web-Development<br> I also love writing Tech-blogs, Search Engine Optimization etc.<br></p><br/>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
