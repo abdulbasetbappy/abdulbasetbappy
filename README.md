@@ -21,7 +21,12 @@
       <a href="https://linkedin.com/abdulbasetbappy/" target="blank">
     <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/d303ee09-30fd-4fb0-8f3c-b5550a6fbdfd" alt="LiknekdIn" height="30" width="30" />
   </a>
-  
+        <a href="https://codepen.io/abdul-baset-bappy" target="blank">
+    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/f6523cbe-af31-4b91-9856-e6af321c2bdf" alt="Codepen" height="30" width="30" />
+  </a>
+          <a href="https://codepen.io/abdul-baset-bappy" target="blank">
+    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/8f6fefab-45b3-4c9e-8a08-51cbdee0cda3" alt="facebook" height="30" width="30" />
+  </a>
 </p>
 
 
