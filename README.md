@@ -1,9 +1,3 @@
-<div align="center">
-  <img  src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/0bd92332-646d-42dc-a011-6bdeff4aaef1"
-       alt="Abdul-Baset-Bappy"
-     width="200px" height="200px"
-    />
-</div>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -80,7 +74,7 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <h2 align="start">
+  <h2 align="start" justify="start">
      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</b>
   </h2>
 </div>
