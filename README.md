@@ -134,7 +134,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwinde,express,nuxtjs,Vuejs,vuetify&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,express,nuxtjs,vuejs,vuetify&perline=14" />
   </a>
 </p>
 
