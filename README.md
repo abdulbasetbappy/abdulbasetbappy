@@ -12,34 +12,6 @@
 
 
 
-<!--icons and links-->
-<p align="center">
-  </a>
-    <a href="https://stackoverflow.com/users/21169980/abdul-baset-bappy" target="blank">
-    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/2f08163a-e529-4570-83d0-f9f502718a7c" alt="stackoverflow" height="30" width="30" />
-  </a>
-      <a href="https://linkedin.com/abdulbasetbappy/" target="blank">
-    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/d303ee09-30fd-4fb0-8f3c-b5550a6fbdfd" alt="LiknekdIn" height="30" width="30" />
-  </a>
-        <a href="https://codepen.io/abdul-baset-bappy" target="blank">
-    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/f6523cbe-af31-4b91-9856-e6af321c2bdf" alt="Codepen" height="30" width="30" />
-  </a>
-          <a href="https://facebook.com/abdulbasetbappy.bd" target="blank">
-    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/8f6fefab-45b3-4c9e-8a08-51cbdee0cda3" alt="facebook" height="30" width="30" />
-  </a>
-            <a href="https://dev.to/abdulbasetbappy" target="blank">
-    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/bda71226-4d27-471f-970a-0f8c2ddd5e66" alt="dev" height="30" width="30" />
-  </a>
-              <a href="https://youtube.com/@abdulbasetbappy.bd" target="blank">
-    <img align="center" src="https://github.com/abdulbasetbappy/abdulbasetbappy/assets/96036849/ff94d675-d921-48ba-8303-829a3ffa9337" alt="youtube" height="30" width="30" />
-  </a>
-</p>
-
-
-
-
-
-
 
 
 
