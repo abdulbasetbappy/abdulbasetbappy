@@ -138,6 +138,20 @@
   </a>
 </p>
 
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <h2 align="start">
+     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Database </b>
+  </h2>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase&perline=14" />
+  </a>
+</p>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
