@@ -37,9 +37,9 @@
 
 🔭 Actively seeking Internship opportunities.
 
-📝 I regularly write articles on [dev.to](https://dev.to/abdulbasetbappy)
+📝 I regularly write articles on [My Portfolio App](https://abdulbasetbappy.vercel.app/)
 
-💬 Ask me about **VueJs, NuxtJs, NodeJs, ExpressJs, MongoDB, TypeScript**
+💬 Ask me about **VueJs, NuxtJs, NodeJs, ReactJs, NextJs, TypeScript**
 
 📫 Feel free to reach me out **abdulbasetbappy@hotmail.com**
 
